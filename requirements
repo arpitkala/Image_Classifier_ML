@@ -1,6 +1,6 @@
 streamlit
 numpy
 pandas
-opencv-python
-tensorflow   # or torch (only one)
+opencv-python-headless
 Pillow
+tensorflow==2.15.0
