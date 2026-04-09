@@ -181,9 +181,3 @@ Save model.h5 + class_names.json
 MIT License — free to use, modify, and distribute.
 
 ---
-
-## 🙏 Acknowledgements
-
-- Dataset by [gpiosenka](https://www.kaggle.com/gpiosenka) on Kaggle
-- MobileNetV2 — Howard et al., Google (2018)
-- TensorFlow / Keras team
